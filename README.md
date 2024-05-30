@@ -1,6 +1,6 @@
 # Blackjack_Game
 
-### Overview
+### Project Overview
 Welcome to Blackjack game! This is a text-based implementation of the classic casino card game. In this game, you'll be playing against a computer dealer. Your goal is to beat the dealer's hand without going over 21.
 
 ### Tools and Technologies:
