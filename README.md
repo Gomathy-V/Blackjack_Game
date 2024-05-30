@@ -1,7 +1,7 @@
 # Blackjack_Game
 
 ### Overview
-Welcome to our Blackjack game! This is a text-based implementation of the classic casino card game. In this game, you'll be playing against a computer dealer. Your goal is to beat the dealer's hand without going over 21.
+Welcome to Blackjack game! This is a text-based implementation of the classic casino card game. In this game, you'll be playing against a computer dealer. Your goal is to beat the dealer's hand without going over 21.
 
 ### Tools and Technologies:
 
@@ -17,7 +17,7 @@ Welcome to our Blackjack game! This is a text-based implementation of the classi
 - **Scoring System**: Keep track of your wins, losses, and ties to see how well you're doing.
 
 ### How to Play
-1. **Launch the Game**: Start the game by running `blackjack.py`.
+1. **Launch the Game**: Start the game by running `Blackjack_Game.ipynb`.
 2. **Get Dealt Cards**: You'll be dealt two cards face up, while the dealer receives one face up and one face down.
 3. **Make Decisions**: Decide whether to hit (receive another card) or stand (keep your current hand) based on the strength of your hand and the dealer's visible card.
 4. **Winning Conditions**:
